@@ -4,3 +4,4 @@ transformers>=4.30.0
 keybert>=0.7.0
 nltk>=3.8.1
 torch>=2.0.0
+customtkinter>=5.2.0
